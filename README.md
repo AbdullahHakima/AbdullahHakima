@@ -53,8 +53,8 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahHakima&show_icons=true&theme=radium" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahHakima&theme=radium" alt="Abdullah's GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullahHakima&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=AbdullahHakima&theme=tokyonight" />
 </p>
 
 <p align="center">
