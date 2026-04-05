@@ -58,7 +58,7 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHakima&layout=compact&theme=radium" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHakima&layout=compact&theme=tokyonight" />
 </p>
 
 ---
