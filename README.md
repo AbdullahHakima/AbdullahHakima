@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Hakima 👋
+# Hi there, I'm Abdullah Hakim 👋
 
 ### Software Engineer | .NET Developer | MSc candidate @ PoliMi 
 
