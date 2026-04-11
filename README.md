@@ -13,6 +13,7 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 - Clean Architecture
 - CQRS (Command Query Responsibility Segregation)
 - Modular Monoliths
+- Model-View-Controller (MVC)
 
 **Backend & Data:**
 - C# & .NET 8 / 9
@@ -24,6 +25,8 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 - Redis
 
 **Frontend & UX:**
+- HTML5 & CSS5
+- JavaScript [EntryLevel]
 - Angular [Entery Level]
 
 **DevOps & Tools:**
