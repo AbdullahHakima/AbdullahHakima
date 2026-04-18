@@ -26,7 +26,7 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 
 **Frontend & UX:**
 - HTML5 & CSS5
-- JavaScript [EntryLevel]
+- JavaScript [mid-Level]
 - Angular [Entery Level]
 
 **DevOps & Tools:**
@@ -34,6 +34,7 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 - Swagger
 - Postman
 - Azure
+- Docker
 
 ---
 
