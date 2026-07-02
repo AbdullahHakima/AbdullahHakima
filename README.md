@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Hakim 👋
+# Hi there, I'm Abdullah Hakim
 
 ### Software Engineer | .NET Developer | MSc candidate @ PoliMi 
 
@@ -6,7 +6,7 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 **Architecture & Design:**
 - Domain-Driven Design (DDD)
@@ -38,14 +38,14 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 
 ---
 
-### 🌱 I'm Currently Learning & Exploring
+### I'm Currently Learning & Exploring
 - Advanced patterns in Domain-Driven Design and optimizing Bounded Context boundaries.
 - Best practices in technical mentorship and engineering leadership.
 - Perfecting architectural boundaries in monolithic and distributed ecosystems.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullahHakima&show_icons=true&theme=tokyonight" />
@@ -58,9 +58,9 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 
 ---
 
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/abdullahhakimam/]
-- ✉️ **Email:** [abdullah.hakim@icloud.com]
+###  Let's Connect!
+-  **LinkedIn:** [https://www.linkedin.com/in/abdullahhakimam/]
+-  **Email:** [contact@abdullahhakim.me]
 
 <!--
 **AbdullahHakima/AbdullahHakima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
