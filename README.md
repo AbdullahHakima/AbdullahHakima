@@ -38,15 +38,6 @@ I'm a passionate Software Engineer focused on building robust, scalable, and hig
 
 ---
 
-### 🚀 What I'm Currently Working On
-
-- **SewTec ERP:** Architecting a comprehensive ERP system for a large-scale enterprise with over 30 branches.
-  - Designing a robust **Inventory Module** with transactional ledgers and tight concurrency controls.
-  - Building a cross-module **Sales Order System** with tiered dealer/retail pricing and stock reservations.
-  - Crafting an **"Industrial Precision" CRM Pipeline** featuring Kanban boards and editorial-style interface design.
-
----
-
 ### 🌱 I'm Currently Learning & Exploring
 - Advanced patterns in Domain-Driven Design and optimizing Bounded Context boundaries.
 - Best practices in technical mentorship and engineering leadership.
