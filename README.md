@@ -20,10 +20,10 @@
 
 I'm a software engineer with a backend-first mindset. I design **APIs, domain models, and application architectures** that are easy to reason about, test, and evolve. My work spans enterprise workflows, data-intensive systems, background processing, and full-stack product development.
 
-- 🏗️ **Engineering focus:** Clean Architecture, Domain-Driven Design, CQRS, and pragmatic system design.
-- ⚙️ **Daily toolkit:** C#, ASP.NET Core, EF Core, SQL Server, PostgreSQL, and Docker.
-- 🧠 **Currently exploring:** architectural boundaries, reliable distributed workflows, and engineering leadership.
-- 🎯 **My approach:** favor clarity over cleverness, sensible trade-offs over unnecessary complexity, and outcomes over buzzwords.
+- **Engineering focus:** Clean Architecture, Domain-Driven Design, CQRS, and pragmatic system design.
+- **Daily toolkit:** C#, ASP.NET Core, EF Core, SQL Server, PostgreSQL, and Docker.
+- **Currently exploring:** architectural boundaries, reliable distributed workflows, and engineering leadership.
+- **My approach:** favor clarity over cleverness, sensible trade-offs over unnecessary complexity, and outcomes over buzzwords.
 
 ### `> selected_work`
 
